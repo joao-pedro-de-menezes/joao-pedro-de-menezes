@@ -1,4 +1,4 @@
-# Bem-vindo(a) ao perfil do João  ðŸ˜
+# Bem-vindo(a) ao perfil do João  
 
  <div>
    <a href="https://github.com/joao-pedro-de-menezes">
