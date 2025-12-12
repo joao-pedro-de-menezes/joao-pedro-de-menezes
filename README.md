@@ -2,7 +2,7 @@
   <h2>João Pedro</h2>
   <p><strong>Software Developer | .NET & Web Technologies</strong></p>
   
-  <a href="(https://www.linkedin.com/in/jo%C3%A3o-pedro-menezes-404389349/)" target="_blank">
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-menezes-404389349/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="mailto:jpm3nezes@gmail.com" target="_blank">
@@ -49,9 +49,3 @@ Minha trajetória profissional inclui experiência em ambientes industriais de a
 | **[Confeitaria Management](LINK_DO_SEU_REPO_AQUI)** | `C#` `WinForms` | Solução comercial para controle de pedidos e fluxo de caixa. |
 
 ---
-
-### 📊 GitHub Analytics
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=joao-pedro-de-menezes&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=joao-pedro-de-menezes&layout=compact&theme=tokyonight&hide_border=true)
